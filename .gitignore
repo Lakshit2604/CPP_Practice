@@ -1,0 +1,23 @@
+# Ignore all files by default
+*
+
+# Allow directories
+!*/
+
+# Allow C++ source files
+!*.cpp
+
+# Allow gitignore itself
+!.gitignore
+
+# Ignore macOS debug files
+*.dSYM/
+*.dSYM
+
+# Ignore binaries
+*.out
+*.exe
+*.bin
+
+# Ignore .DS_Store
+.DS_Store
