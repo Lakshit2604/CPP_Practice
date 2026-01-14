@@ -11,9 +11,14 @@ This repository is ideal for beginners and intermediate learners who are also fo
 
 - **Data Structures**: 
     - Arrays
+    - Strings
+    - Linked Lists
 
 - **Algorithms**: 
-    - Sorting algorithms
+    - Sorting 
+    - Divide and Conquer
+    - Searching
+    - Binary Search on Answers
 
 ## 🚀 Getting Started
 
