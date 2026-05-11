@@ -13,12 +13,17 @@ This repository is ideal for beginners and intermediate learners who are also fo
     - Arrays
     - Strings
     - Linked Lists
+    - Stacks & Queues
+    - Hash Tables & Maps
+    - Heaps
 
 - **Algorithms**: 
     - Sorting 
     - Divide and Conquer
     - Searching
     - Binary Search on Answers
+    - Recursion & Backtracking
+    - Greedy Algorithms
 
 ## 🚀 Getting Started
 
