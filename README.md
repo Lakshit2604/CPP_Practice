@@ -16,6 +16,8 @@ This repository is ideal for beginners and intermediate learners who are also fo
     - Stacks & Queues
     - Hash Tables & Maps
     - Heaps
+    - Binary Trees
+    - Binary Search Trees
 
 - **Algorithms**: 
     - Sorting 
@@ -24,6 +26,8 @@ This repository is ideal for beginners and intermediate learners who are also fo
     - Binary Search on Answers
     - Recursion & Backtracking
     - Greedy Algorithms
+    - Breadth First Search
+    - Depth First Search
 
 ## 🚀 Getting Started
 
